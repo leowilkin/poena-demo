@@ -1,4 +1,5 @@
-# Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query
+# Poena.Net Social Media Network
+
 [![Social Media](https://i.ibb.co/k4BQtdP/Thumbnail.png)](https://youtu.be/_W3R2VwRyF4)
 
 ### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
